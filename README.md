@@ -16,5 +16,5 @@ Host-Link:https://deepak-ai-chemist.streamlit.app/
 2. Run the app
 
    ```
-   $ streamlit run scriptfrontUi.py  or  $ python -m streamlit run scriptfrontUi.py
+   $ streamlit run scriptfrontUi.py  
    ```
